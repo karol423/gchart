@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
