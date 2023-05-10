@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Python refactorings and simplifications (#7549)
