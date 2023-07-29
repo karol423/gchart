@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
