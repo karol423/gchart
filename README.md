@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Compress docs images (#8124)
